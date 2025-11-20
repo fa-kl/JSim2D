@@ -1,0 +1,18 @@
+name = "JSim2D"
+uuid = "8d10a4d3-06f8-49bd-9214-ec1a072cfb0c"
+version = "0.1.0"
+authors = ["Fabian Kleindienst <fa-kl@outlook.com>"]
+
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+[compat]
+CairoMakie = "0.15.6"
+LaTeXStrings = "1.4.0"
+LinearAlgebra = "1.12.0"
+Parameters = "0.12.3"
+StaticArrays = "1.9.15"
